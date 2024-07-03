@@ -23,5 +23,6 @@ https://github.com/sebitas13/Amazon-review-analyzer-frontend/assets/78001255/8f0
 - **Chart.js**: Biblioteca para la creación de gráficos interactivos.
 - **Fetch**: Cliente HTTP para realizar peticiones a la API del backend.
 
-Autor
+## Autor
+
 Jesús Sebastián Huamanculi
