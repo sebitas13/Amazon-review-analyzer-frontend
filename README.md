@@ -18,10 +18,13 @@ https://github.com/sebitas13/Amazon-review-analyzer-frontend/assets/78001255/8f0
 
 ## Tecnologías Utilizadas
 
-- **React**: Framework de frontend para la construcción de interfaces de usuario.
-- **React-Bootstrap**: Utilizado para componentes de interfaz de usuario basados en Bootstrap.
-- **Chart.js**: Biblioteca para la creación de gráficos interactivos.
-- **Fetch**: Cliente HTTP para realizar peticiones a la API del backend.
+- **React**
+- **React-Bootstrap**
+- **Chart.js**
+- **Fetch**
+- **React Router**
+- **HTML5**
+- **CSS3**
 
 ## Autor
 
