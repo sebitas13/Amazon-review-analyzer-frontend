@@ -1,0 +1,78 @@
+/* App.css */
+
+.nav-link {
+  color: white !important;
+  font-weight: 500 !important;
+  font-size: 1rem;
+}
+
+.nav-link:hover {
+  color: orange !important;
+  font-weight: 500;
+}
+
+.text-gold {
+  color: #ffc107 !important;
+}
+
+.form-text-color {
+  color: white !important;
+}
+
+.form-control {
+  background-color: #363062 !important;
+  /* background-color: #3C3251 !important; */
+}
+
+input::placeholder {
+  color: rgba(255, 255, 255, 0.49) !important;
+}
+
+input {
+  color: white !important;
+}
+
+.backgroud-navBar {
+  background-color: #5532a0;
+}
+
+.backgroud-form {
+  background-color: #333333;
+}
+
+.backgroud-footer {
+  background-color: #3c3251;
+  font-weight: bold;
+
+  a,
+  p {
+    color: white !important;
+  }
+
+  a:hover,
+  p:hover {
+    color: orange !important;
+  }
+}
+
+.form-select {
+  background-color: #363062 !important;
+  color: white !important;
+  option {
+    color: white !important;
+  }
+}
+
+/* canvas {
+  width: 60% !important;
+  height: 100% !important;
+  margin: auto !important;
+  text-align: center;
+}
+
+@media only screen and (max-witdh: 720px) {
+  canvas {
+    width: 100% !important;
+    height: 100% !important;
+  }
+} */
